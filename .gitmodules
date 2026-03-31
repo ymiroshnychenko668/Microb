@@ -1,0 +1,3 @@
+[submodule "corvuscnc"]
+	path = corvuscnc
+	url = https://github.com/ymiroshnychenko668/corvuscnc.git
